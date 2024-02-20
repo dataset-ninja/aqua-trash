@@ -1,3 +1,3 @@
-# Aqua Trash Dataset
+# AquaTrash Dataset
 
-Aqua Trash is a dataset for object detection task.
+AquaTrash is a dataset for object detection task.
