@@ -13,8 +13,8 @@ from dataset_tools.templates import (
 ##################################
 # * Before uploading to instance #
 ##################################
-PROJECT_NAME: str = "Aqua Trash"
-PROJECT_NAME_FULL: str = "Aqua Trash Dataset"
+PROJECT_NAME: str = "AquaTrash"
+PROJECT_NAME_FULL: str = "AquaTrash Dataset"
 HIDE_DATASET = True  # set False when 100% sure about repo quality
 
 ##################################
@@ -36,7 +36,7 @@ if RELEASE_DATE is None:
 HOMEPAGE_URL: str = "https://github.com/Harsh9524/AquaTrash"
 # e.g. "https://some.com/dataset/homepage"
 
-PREVIEW_IMAGE_ID: int = 14101709
+PREVIEW_IMAGE_ID: int = 14101962
 # This should be filled AFTER uploading images to instance, just ID of any image.
 
 GITHUB_URL: str = "https://github.com/dataset-ninja/aqua-trash"
