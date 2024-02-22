@@ -20,8 +20,8 @@ HIDE_DATASET = True  # set False when 100% sure about repo quality
 ##################################
 # * After uploading to instance ##
 ##################################
-LICENSE: License = License.MIT(
-    source_url="https://github.com/Harsh9524/AquaTrash/blob/master/LICENSE"
+LICENSE: License = License.Custom(
+    source_url="https://github.com/Harsh9524/AquaTrash?tab=readme-ov-file#usage"
 )
 APPLICATIONS: List[Union[Industry, Domain, Research]] = [Industry.Environmental()]
 CATEGORY: Category = Category.Environmental()
