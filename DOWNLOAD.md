@@ -1,6 +1,6 @@
 Dataset **AquaTrash** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](https://www.dropbox.com/scl/fi/2drm8qf32kwmtm1lib4me/aquatrash-DatasetNinja.tar?rlkey=9lkrcs3mpc6jx26086qqcyajo&dl=1)
+ [Download](https://assets.supervisely.com/remote/eyJsaW5rIjogImZzOi8vYXNzZXRzLzM1NDVfQXF1YVRyYXNoL2FxdWF0cmFzaC1EYXRhc2V0TmluamEudGFyIiwgInNpZyI6ICJLSTdzVnRRV2hJVDhKTUxrbVFndzVYQytoVk5sVkdyY2ZJdTZ5VWlXbWxBPSJ9)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
